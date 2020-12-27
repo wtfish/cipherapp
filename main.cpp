@@ -1,6 +1,7 @@
 #include<iostream>
-#include"color.h"
 #include"file_function.h"
+#include"color.h"
+
 
 using namespace std;
 int main(){
